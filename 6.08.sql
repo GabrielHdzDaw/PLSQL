@@ -1,0 +1,4 @@
+-- 11/03/2025
+-- Gabriel Hernández Collado
+-- A partir de les dades de la taula de ciutats, crea un script que diga "No tenim país que continga la paraula Unido", "Tenim un país amb la paraula Unido" 
+-- "Tenim dos països amb la paraula Unido" o "Tenim més de dos països amb la paraula Unido" segons la quantitat de països que tenim amb la paraula Unido al seu nom.
