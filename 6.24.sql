@@ -21,4 +21,3 @@ BEGIN
 END SumaDePoblacionsDePais;
 
 EXECUTE dbms_output.put_line(SUMADEPOBLACIONSDEPAIS('China'));
-
